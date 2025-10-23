@@ -1,0 +1,5 @@
+{
+  "name": "Art-Scene: AI Storyboard Assistant",
+  "description": "An AI-powered storyboard assistant that helps you visualize scenes. Generate images from text prompts, get AI-driven suggestions for subsequent shots, and build your visual narrative sequence by sequence.",
+  "requestFramePermissions": []
+}
